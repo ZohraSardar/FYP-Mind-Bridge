@@ -1,0 +1,94 @@
+## *🔹 Core Features & Functionality*  
+
+### *⿡ Authentication System*  
+- User must *sign up/log in* before accessing the platform.  
+- The authentication system includes:  
+  - *Name*  
+  - *Age*  
+  - *Email*  
+  - *Password*  
+
+---
+
+### *⿢ Game Modes (Learning & Quiz)*  
+Each game has *two modes*:  
+
+#### *✅ Learning Mode (Guided & Interactive)*  
+- User *must answer correctly* before proceeding.  
+- If the answer is *correct*:  
+  - *Voice feedback says "Correct."*  
+  - *Green tick appears.*  
+  - *Party popper animation triggers.*  
+  - Moves to the *next question.*  
+- If the answer is *incorrect*:  
+  - *Voice feedback says "Incorrect."*  
+  - *Red cross appears.*  
+  - *User must retry* until they select the correct answer.  
+- *No data storage* in this mode.  
+
+#### *📌 Quiz Mode (Free Progression, No Restrictions)*  
+- User can *move forward even if the answer is incorrect.*  
+- Correct Answer → *Green tick appears.*  
+- Incorrect Answer → *Red cross appears.*  
+- *No restrictions on progress.*  
+
+---
+
+## *⿣ Educational Games & Features*  
+
+### *🎲 1. Basic Mathematics Game*  
+✅ *Counting (1-10)* → Numbers displayed with *voice pronunciation* when clicked.  
+✅ *Addition & Subtraction (up to 2 digits)* with:  
+  - Four multiple-choice answers.  
+  - Animated feedback for correct/incorrect choices.  
+✅ *Sticker-based visualization*:  
+  - Instead of numbers, use *stickers/images* (e.g., 🍌 *1 banana* + 🍏 *2 apples* = ?).  
+✅ *Three Difficulty Levels*: Basic, Medium, Hard.  
+
+---
+
+### *🖼 2. Object Identification Game (Drag & Drop)*  
+✅ Users *drag objects into "Harmful" or "Non-Harmful" categories*.  
+✅ Example:  
+  - A *gun* → Drag to "Harmful".  
+  - A *ball* → Drag to "Non-Harmful".  
+✅ *Randomized images* for variety in each session.  
+✅ Correct selection: *Green tick + Party Popper Animation*.  
+✅ Wrong selection: *Red Cross + Retry in Learning Mode*.  
+
+---
+
+### *🗣 3. Speech Therapy Game*  
+✅ Teaches *common gestures* (e.g., waving "Hi") with *voice guidance*.  
+✅ Helps autistic children recognize & use *expressions & social cues*.  
+✅ Multiple *levels* for progressive learning.  
+
+---
+
+### *🎮 4. Color & Shape Game*  
+✅ *Identify colors* and *shapes*.  
+✅ Children *match shapes* (circle, square, triangle, etc.) with their *correct colors* (red, blue, yellow, etc.).  
+✅ *Interactive features*: Drag and drop the shapes into the corresponding colored bins.  
+✅ *Sticker-based visualization: Include shapes with stickers (e.g., 🌟 **Star in Red* or 🔵 *Circle in Blue*).  
+✅ *Three Difficulty Levels*: Basic, Medium, Hard.  
+
+---
+
+### *🎮 5. Extra Autism-Friendly Game*  
+✅ Include *one additional game* designed specifically for autistic children.  
+✅ Must be *engaging & interactive* with *animated feedback*.  
+
+---
+
+## *📊 UI/UX & Performance Features*  
+✅ *Fully responsive* (desktop, tablet, mobile).  
+✅ *Dark-themed UI* with *3D animations in the background*.  
+✅ *Smooth animations with zero lag.*  
+✅ *Easy navigation:*  
+  - *Home button* in every game.  
+  - *Exit button* to return to the homepage.  
+✅ *Animated feedback*:  
+  - *Green tick + Party Popper for correct answers*.  
+  - *Red cross for incorrect answers*.  
+
+---
